@@ -11,3 +11,7 @@ To compile I used gcc (GCC) 4.8.5 20150623, but I think other gcc version should
 To run:
 
 `./a.out`
+
+Please note that there are **many** ways to create and allocate memory for an int[][] array in C.
+
+This example has no purpose to show the best way.
